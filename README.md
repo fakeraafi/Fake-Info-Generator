@@ -26,8 +26,13 @@ Fast and lightweight
 
 # 📸 Highlights
 ✅ 20+ Country Support
+
 ✅ Realistic Fake Profiles
+
 ✅ One-Click Copy
+
 ✅ Strong Password Generator
+
 ✅ Mobile Responsive UI
+
 ✅ Fast & Lightweight
