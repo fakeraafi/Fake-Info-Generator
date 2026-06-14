@@ -40,4 +40,4 @@ Fast and lightweight
 
 
 # 🔗Run the Project 
-https://github.com/fakeraafi
+https://fake-info-generator.vercel.app/
