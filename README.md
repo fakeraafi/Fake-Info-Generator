@@ -2,8 +2,7 @@
 A lightweight and responsive fake identity generator designed for developers, testers, designers, and QA teams. Generate realistic-looking sample user information for testing, prototyping, demonstrations, and development environments without using real personal data.
 # ✨ Features
 🌍 Multi-Country Fake Data Generation
-Supports 20+ countries
-Country-specific names, addresses, phone numbers, and more
+Supports 20+ countries, country-specific names, addresses, phone numbers, and more
 
 📋 One-Click Copy Functionality
 Instantly copy generated information
